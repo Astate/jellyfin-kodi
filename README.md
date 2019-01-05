@@ -1,6 +1,6 @@
 # Jellyfin for Kodi
 
-[![JellyfinKodi_Banner](https://imgur.com/OmUbUuj)]
+[![JellyfinKodi_Banner](https://i.imgur.com/OmUbUuj.png)]
 
 ___
 **The Free Software Media System**
